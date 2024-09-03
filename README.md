@@ -11,14 +11,12 @@ This repository contains several Python utility functions and a class for handli
 
 ## Table of Contents
 
-- [Installation](#installation)
 - [Usage](#usage) and [Function Descriptions]
 - [Contributing](#contributing)
 - [License](#license)
 
-## Installation
 
-## Usage
+## Usage/Description
 
 1. add_numbers: Adds two numbers and returns the result.
 2. is_even: Checks if a number is even.
@@ -42,9 +40,9 @@ This repository contains several Python utility functions and a class for handli
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/repository-name.git
-   cd repository-name
+   git clone https://github.com/Stannyut/code-challenge-1
+   cd code-challenge
 
    ## Licence
 
-   This project is licensed under the MIT License - see the LICENSE file for details.
+   This project is licensed under the MIT License 
